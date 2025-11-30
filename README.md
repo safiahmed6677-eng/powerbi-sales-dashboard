@@ -1,6 +1,7 @@
 # 📊 Power BI Sales Performance Dashboard
 
 An interactive Power BI dashboard analyzing sales performance across categories, regions, and customer segments.  
+
 This project demonstrates strong skills in data cleaning, visualization design, KPI tracking, and business analytics.
 
 ---
